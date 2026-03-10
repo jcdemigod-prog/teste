@@ -172,5 +172,5 @@ http://granpirosh.top/live/841866657/c581b7318b/620.m3u8
 #EXTINF:-1 group-title="LISTA DE CANAIS", 080 TELECINE PIPOCA
 http://granpirosh.top/live/841866657/c581b7318b/630.m3u8
 
-#EXTINF:-1 tvg-id="Naruto078" tvg-name="Naruto E78" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkQepDhsawnELQdDVbvylz-CRYHW5qA_sQbg&s.jpg" group-title="Naruto" m3u8-type="series", Naruto - Episódio 078
+#EXTINF:-1 tvg-id="Naruto078" tvg-name="Naruto E78" tvg-logo="" group-title="Naruto" m3u8-type="series", Naruto - Episódio 078
 https://drive.google.com/uc?export=download&id=1yC1GvQLLUzpdrMzOPlAazRvWCxNQyNPg
